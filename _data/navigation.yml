@@ -1,3 +1,7 @@
+- name: Support & Feedback
+  link: https://community.hamrs.app/
+  new_window: true
+  highlight: false
 - name: Blog
   link: /blog/
   new_window: false
