@@ -12,14 +12,12 @@ jobs:
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
     - uses: actions/cache@v2
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        target_branch: 'gh-pages'
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
         restore-keys: |
           ${{ runner.os }}-gems-
 
-#     # Standard usage
+#    # Standard usage
 #     - uses:  helaili/jekyll-action@v2
 #       with:
 #         token: ${{ secrets.GITHUB_TOKEN }}
@@ -30,8 +28,8 @@ jobs:
 #         token: ${{ secrets.GITHUB_TOKEN }}
 #         jekyll_src: 'sample_site'
 
-#     # Specify the target branch (optional)
-#     - uses: helaili/jekyll-action@v2
-#       with:
-#         token: ${{ secrets.GITHUB_TOKEN }}
-#         target_branch: 'gh-pages'
+    # Specify the target branch (optional)
+    - uses: helaili/jekyll-action@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'gh-pages'
