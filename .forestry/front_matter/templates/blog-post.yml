@@ -17,3 +17,5 @@ fields:
   default: Jarrett - KB0ICT
   config:
     required: true
+pages:
+- _posts/0.9.1-release-persistent-rsts-and-winter-field-day-template.md
