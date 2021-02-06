@@ -14,3 +14,6 @@ fields:
 - type: text
   name: author_staff_member
   label: author_staff_member
+  default: Jarrett - KB0ICT
+  config:
+    required: true
