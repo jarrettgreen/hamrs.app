@@ -18,7 +18,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/0.9.5-release-profile-switching-and-automatic-qth-information.md
 - _posts/2021-02-06-0.9.1-release-persistent-rsts-and-winter-field-day-template.md
 - _posts/2021-02-15-0.9.2-release-language-support.md
 - _posts/2021-03-03-0.9.4-release-ios-beta-and-small-bug-fixes.md
+- _posts/2021-03-03-0.9.5-release-profile-switching-and-automatic-qth-information.md
