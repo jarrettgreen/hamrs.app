@@ -2,6 +2,10 @@
   link: https://community.hamrs.app/
   new_window: true
   highlight: false
+- name: Merch
+  link: /merch/
+  new_window: false
+  highlight: false
 - name: Blog
   link: /blog/
   new_window: false
