@@ -3,7 +3,6 @@ author_staff_member: Jarrett - KB0ICT
 date: 
 title: Terms and Conditions
 categories: []
-published: false
 
 ---
     <strong>Terms &amp; Conditions</strong> <p>
