@@ -3,7 +3,6 @@ author_staff_member: Jarrett - KB0ICT
 date: 
 title: Privacy Policy
 categories: []
-published: false
 
 ---
     <strong>Privacy Policy</strong> <p>
