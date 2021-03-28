@@ -1,6 +1,6 @@
 ---
 author_staff_member: Jarrett - KB0ICT
-date: 
+date: 2021-03-27 05:00:00 +0000
 title: Merch
 categories: []
 published: false
