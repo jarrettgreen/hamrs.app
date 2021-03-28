@@ -6,9 +6,9 @@ categories: []
 published: false
 
 ---
-<div id='collection-component-1616893122206'></div>
+<div id='collection-component-1616893480517'></div>
 <script type="text/javascript">
-/*<!\[CDATA\[*/
+/*<![CDATA[*/
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -24,7 +24,7 @@ published: false
     var script = document.createElement('script');
     script.async = true;
     script.src = scriptURL;
-    (document.getElementsByTagName('head')\[0\] || document.getElementsByTagName('body')\[0\]).appendChild(script);
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
     script.onload = ShopifyBuyInit;
   }
   function ShopifyBuyInit() {
@@ -35,7 +35,7 @@ published: false
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: '263538770069',
-        node: document.getElementById('collection-component-1616893122206'),
+        node: document.getElementById('collection-component-1616893480517'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -107,5 +107,5 @@ published: false
     });
   }
 })();
-/*\]\]>*/
+/*]]>*/
 </script>
