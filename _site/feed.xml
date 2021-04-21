@@ -1,1 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://proud-alligator.cloudvent.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://proud-alligator.cloudvent.net/" rel="alternate" type="text/html" /><updated>2021-01-28T02:41:58+00:00</updated><id>https://proud-alligator.cloudvent.net/feed.xml</id><title type="html">Hydra Template</title><subtitle>Product marketing template for Jekyll.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-21T01:44:20+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">HAMRS</title><subtitle>Product marketing template for Jekyll.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">0.9.9 Release - Park-to-Park enhancement, and bugfixes.</title><link href="http://localhost:4000/release%20notes/2021/04/04/0.9.9-release-park-to-park-enhancement-and-bugfixes/" rel="alternate" type="text/html" title="0.9.9 Release - Park-to-Park enhancement, and bugfixes." /><published>2021-04-04T22:00:00+00:00</published><updated>2021-04-04T22:00:00+00:00</updated><id>http://localhost:4000/release%20notes/2021/04/04/0.9.9-release-park-to-park-enhancement-and-bugfixes</id><content type="html" xml:base="http://localhost:4000/release%20notes/2021/04/04/0.9.9-release-park-to-park-enhancement-and-bugfixes/">&lt;p&gt;Some releases aren’t sexy. This is one of those. One new feature, some bug fixes, and a few quality of life improvements!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;QUICK CHANGELOG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New Feature&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Entering multiple parks in the ‘Their Parks’ field will create a QSO for each park&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Enhancements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Added FT8, SSTV, C4FM, JS8, FT4, DSTAR, and Digital Voice to the Modes dropdown&lt;/li&gt;
+  &lt;li&gt;RST, Frequency, and Time fields will present the iOS keyboard with the numbers top bar&lt;/li&gt;
+  &lt;li&gt;A couple of more mixes for mobile layouts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bug Fixes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed incorrectly marked duplicate QSOs&lt;/li&gt;
+  &lt;li&gt;Comments are no longer persisted between QSOs&lt;/li&gt;
+  &lt;li&gt;Initial load screen actually loads now.&lt;/li&gt;
+  &lt;li&gt;Clicking the HAMRS icon will no longer navigate to a blank white screen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Handling multiple Park to Park&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The ‘Their Park’ field on the POTA form will now accept multiple parks, separated by commas, and create a new QSO for each entry.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/multiple-parks.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Some releases aren’t sexy. This is one of those. One new feature, some bug fixes, and a few quality of life improvements!</summary></entry><entry><title type="html">0.9.6 Release - Editing QSOs</title><link href="http://localhost:4000/release%20notes/2021/03/25/0.9.6-editing-qsos/" rel="alternate" type="text/html" title="0.9.6 Release - Editing QSOs" /><published>2021-03-25T05:00:00+00:00</published><updated>2021-03-25T05:00:00+00:00</updated><id>http://localhost:4000/release%20notes/2021/03/25/0.9.6-editing-qsos</id><content type="html" xml:base="http://localhost:4000/release%20notes/2021/03/25/0.9.6-editing-qsos/">&lt;p&gt;I’ve finally been able to add the most asked for feature, the ability to edit QSOs, on-the-fly. Thanks for everyone over at the &lt;a href=&quot;community.hamrs.app&quot;&gt;community.hamrs.app&lt;/a&gt; for their suggestions and helpfulness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quick Changelog&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;FEATURE&lt;/strong&gt; Added ability to edit QSOs!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;BUGFIX&lt;/strong&gt; Cleaned up iPhone layouts&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;BUGFIX&lt;/strong&gt; Fix bugged preventing all ‘My Callsign’ inputs from auto-populating with current profile&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Editing QSOs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/editing-a-qso.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">I’ve finally been able to add the most asked for feature, the ability to edit QSOs, on-the-fly. Thanks for everyone over at the community.hamrs.app for their suggestions and helpfulness.</summary></entry><entry><title type="html">0.9.4 Release - iOS beta and small bug fixes</title><link href="http://localhost:4000/release%20notes/2021/03/03/0.9.4-release-ios-beta-and-small-bug-fixes/" rel="alternate" type="text/html" title="0.9.4 Release - iOS beta and small bug fixes " /><published>2021-03-03T06:00:00+00:00</published><updated>2021-03-03T06:00:00+00:00</updated><id>http://localhost:4000/release%20notes/2021/03/03/0.9.4-release-ios-beta-and-small-bug-fixes</id><content type="html" xml:base="http://localhost:4000/release%20notes/2021/03/03/0.9.4-release-ios-beta-and-small-bug-fixes/">&lt;p&gt;The iOS beta is in full swing, if you’d like early access you’ll need to download Apple’s &lt;a href=&quot;https://apps.apple.com/us/app/testflight/id899247664&quot;&gt;TestFlight application&lt;/a&gt; onto you devices and fill out &lt;a href=&quot;https://www.surveymonkey.com/r/8N3CPPL&quot;&gt;this survey&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quick Changelog&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed bug that prevented creating consecutive Logbooks&lt;/li&gt;
+  &lt;li&gt;Fixed bug that exported ADI files in iOS as TXT files&lt;/li&gt;
+  &lt;li&gt;Fixed bug that clears the wrong part of the POTA form&lt;/li&gt;
+  &lt;li&gt;Upcase call sign input on Profile form&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">The iOS beta is in full swing, if you’d like early access you’ll need to download Apple’s TestFlight application onto you devices and fill out this survey.</summary></entry><entry><title type="html">0.9.5 Release - Profile Switching, and Automatic QTH Information</title><link href="http://localhost:4000/release%20notes/2021/03/03/0.9.5-release-profile-switching-and-automatic-qth-information/" rel="alternate" type="text/html" title="0.9.5 Release - Profile Switching, and Automatic QTH Information" /><published>2021-03-03T06:00:00+00:00</published><updated>2021-03-03T06:00:00+00:00</updated><id>http://localhost:4000/release%20notes/2021/03/03/0.9.5-release-profile-switching-and-automatic-qth-information</id><content type="html" xml:base="http://localhost:4000/release%20notes/2021/03/03/0.9.5-release-profile-switching-and-automatic-qth-information/">&lt;p&gt;Thank you to all of the folks taking a part in the iOS beta test phase.If you’d like to join, &lt;a href=&quot;https://www.surveymonkey.com/r/8N3CPPL&quot;&gt;please fill out this form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’m very happy to be able to implement a couple of your suggestions with this release, as well as do a little housekeeping:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quick Changelog&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;New Features&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Added ability to create multiple station profiles and switch between them while in the Logger&lt;/li&gt;
+      &lt;li&gt;After entering a callsign in a form, a toast will appear with Station Information&lt;/li&gt;
+      &lt;li&gt;POTA form persists park name, freq, band, and mode between sessions&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bug Fixes&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Duplicate entries are now only marked if the callsign, mode, and date match (Thanks, CU3HY!)&lt;/li&gt;
+      &lt;li&gt;POTA form now populates ‘POTA’ in the &lt;code class=&quot;highlighter-rouge&quot;&gt;my_sig&lt;/code&gt; field when exporting ADI file&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Instant QTH Information&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Typing a callsign into the filed and pressing tab, or moving to another field will immediately query QRZ to let you know who you’re contacting. Thanks to KD2E the suggestion!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/qth-toast.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Profile Switching&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can now create multiple station profiles, and switch between them while in a log. Thanks to W8ATM for the suggestion!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/profile-switching.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Thank you to all of the folks taking a part in the iOS beta test phase.If you’d like to join, please fill out this form.</summary></entry><entry><title type="html">0.9.2 Release - Language Support</title><link href="http://localhost:4000/release%20notes/2021/02/15/0.9.2-release-language-support/" rel="alternate" type="text/html" title="0.9.2 Release - Language Support" /><published>2021-02-15T06:00:00+00:00</published><updated>2021-02-15T06:00:00+00:00</updated><id>http://localhost:4000/release%20notes/2021/02/15/0.9.2-release-language-support</id><content type="html" xml:base="http://localhost:4000/release%20notes/2021/02/15/0.9.2-release-language-support/">&lt;p&gt;First, a &lt;strong&gt;HUGE&lt;/strong&gt; thank you to Mike, CU3HY in Portugal for providing HAMRS’ first translation, and being an all around amazing beta tester! If you’d like to provide a translation, you can can &lt;a href=&quot;https://community.hamrs.app/t/translation-template&quot; title=&quot;Translation template instructions&quot;&gt;get started here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quick Changelog&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Added Profiles to support locales and internationalization&lt;/li&gt;
+  &lt;li&gt;Added Translations
+    &lt;ul&gt;
+      &lt;li&gt;Portuguese&lt;/li&gt;
+      &lt;li&gt;Spanish&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Added generic logbook template&lt;/li&gt;
+  &lt;li&gt;Fixed bug that resulted in false ‘DUPE’ badges on QSOs when the DUPE was deleted&lt;/li&gt;
+  &lt;li&gt;Renamed ‘Winter Field Day’ template to ‘ARRL Winter Field Day’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Profiles &amp;amp; Language Support&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After updating HAMRS will ask you to create a default profile and select your language.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/screen-shot-2021-02-15-at-5-13-45-pm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Generic Template&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve added a generic template to use if the POTA, or other event specific templates don’t make sense for your use.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/screen-shot-2021-02-15-at-5-16-19-pm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What’s coming next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Barring any bugs that need to be addressed, or great feature requests you guys come up with, I’ll be working on creating the iOS and Android mobile apps based off of this release, and any necessary features that pop up on &lt;a href=&quot;https://community.hamrs.app/c/feature-requests/6&quot; title=&quot;Link to HAMRS community site&quot;&gt;the community site. &lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">First, a HUGE thank you to Mike, CU3HY in Portugal for providing HAMRS’ first translation, and being an all around amazing beta tester! If you’d like to provide a translation, you can can get started here.</summary></entry><entry><title type="html">0.9.1 Release - Persistent RSTs, and Winter Field Day Template</title><link href="http://localhost:4000/release%20notes/2021/02/06/0.9.1-release-persistent-rsts-and-winter-field-day-template/" rel="alternate" type="text/html" title="0.9.1 Release - Persistent RSTs, and Winter Field Day Template" /><published>2021-02-06T06:00:00+00:00</published><updated>2021-02-06T06:00:00+00:00</updated><id>http://localhost:4000/release%20notes/2021/02/06/0.9.1-release-persistent-rsts-and-winter-field-day-template</id><content type="html" xml:base="http://localhost:4000/release%20notes/2021/02/06/0.9.1-release-persistent-rsts-and-winter-field-day-template/">&lt;p&gt;&lt;strong&gt;Quick Changelog:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Added a Winter Field Day Template&lt;/li&gt;
+  &lt;li&gt;POTA Template changes:
+    &lt;ul&gt;
+      &lt;li&gt;Fixed typos&lt;/li&gt;
+      &lt;li&gt;Added ‘Their Park’ to QSO table&lt;/li&gt;
+      &lt;li&gt;QSOs prepopulate RST with 59&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Removed internally used field from .adi export&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Winter Field Day Template&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/screen-shot-2021-02-06-at-12-03-10-pm.png&quot; alt=&quot;&quot; title=&quot;Winter Field Day Template&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I know it’s too late for this years WFD, but I spent my time on during WFD getting the template right, and also work on refactoring the code to make adding templates in the future much easier. If there is a template you’d like to see, let me know over on &lt;a href=&quot;https://community.hamrs.app/c/feature-requests/6&quot;&gt;the community site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What’s coming next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Translations! This has been requested by a few users and it’s easy to achieve with their help! If you’d like to help let me know over on &lt;a href=&quot;https://community.hamrs.app/c/feature-requests/translations/8&quot;&gt;the community site&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;QSO Table Searching&lt;/li&gt;
+  &lt;li&gt;I’m not sure, hit me up with requests! I’d love to start working on a Field Day template in time for June.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Quick Changelog:</summary></entry></feed>

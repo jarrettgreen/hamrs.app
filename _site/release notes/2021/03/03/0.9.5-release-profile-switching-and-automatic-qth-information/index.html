@@ -1,0 +1,170 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="https://kit.fontawesome.com/7615417c81.js" crossorigin="anonymous"></script>
+		<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>0.9.5 Release - Profile Switching, and Automatic QTH Information | HAMRS</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="0.9.5 Release - Profile Switching, and Automatic QTH Information" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Thank you to all of the folks taking a part in the iOS beta test phase.If you’d like to join, please fill out this form." />
+<meta property="og:description" content="Thank you to all of the folks taking a part in the iOS beta test phase.If you’d like to join, please fill out this form." />
+<link rel="canonical" href="http://localhost:4000/release%20notes/2021/03/03/0.9.5-release-profile-switching-and-automatic-qth-information/" />
+<meta property="og:url" content="http://localhost:4000/release%20notes/2021/03/03/0.9.5-release-profile-switching-and-automatic-qth-information/" />
+<meta property="og:site_name" content="HAMRS" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-03-03T06:00:00+00:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/siteicon.png"}},"headline":"0.9.5 Release - Profile Switching, and Automatic QTH Information","dateModified":"2021-03-03T06:00:00+00:00","datePublished":"2021-03-03T06:00:00+00:00","description":"Thank you to all of the folks taking a part in the iOS beta test phase.If you’d like to join, please fill out this form.","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/release%20notes/2021/03/03/0.9.5-release-profile-switching-and-automatic-qth-information/"},"url":"http://localhost:4000/release%20notes/2021/03/03/0.9.5-release-profile-switching-and-automatic-qth-information/","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+		<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="HAMRS" />
+
+		<link rel="stylesheet" href="/css/screen.css">
+		<link rel="icon" type="image/png" href="/favicon.png">
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-V363Y1KSE2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-V363Y1KSE2');
+		</script>
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<div class="company-name"><a href="/"><img src="/uploads/logo-white.svg" alt="Hydra Logo" width="95" height="33" /></a></div>
+				<nav>
+	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+	<a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a>
+	
+		
+		
+
+		
+		<a href="https://community.hamrs.app/
+" class="" target="_blank">Support & Feedback</a>
+	
+		
+		
+
+		
+		<a href="/merch/
+" class="" >Merch</a>
+	
+		
+		
+
+		
+		<a href="/blog/
+" class="" >Blog</a>
+	
+</nav>
+
+			</div>
+		</header>
+		<div class="content">
+	<section class="page">
+		<div class="container ">
+			
+				<h2>0.9.5 Release - Profile Switching, and Automatic QTH Information</h2>
+			
+			
+			<div class="blog-post text-container">
+	<p class="post-details">
+	
+		<span class="blog-filter">
+			<a href="/category/release-notes/">Release notes</a>
+		</span>
+	
+	<span class="post-date">March 03, 2021</span>
+</p>
+
+
+	<p class="editor-link"><a href="cloudcannon:collections/_posts/2021-03-03-0.9.5-release-profile-switching-and-automatic-qth-information.md" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
+	<div class="post-content">
+		<p>Thank you to all of the folks taking a part in the iOS beta test phase.If you’d like to join, <a href="https://www.surveymonkey.com/r/8N3CPPL">please fill out this form</a>.</p>
+
+<p>I’m very happy to be able to implement a couple of your suggestions with this release, as well as do a little housekeeping:</p>
+
+<p><strong>Quick Changelog</strong></p>
+
+<ul>
+  <li><strong>New Features</strong>
+    <ul>
+      <li>Added ability to create multiple station profiles and switch between them while in the Logger</li>
+      <li>After entering a callsign in a form, a toast will appear with Station Information</li>
+      <li>POTA form persists park name, freq, band, and mode between sessions</li>
+    </ul>
+  </li>
+  <li><strong>Bug Fixes</strong>
+    <ul>
+      <li>Duplicate entries are now only marked if the callsign, mode, and date match (Thanks, CU3HY!)</li>
+      <li>POTA form now populates ‘POTA’ in the <code class="highlighter-rouge">my_sig</code> field when exporting ADI file</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Instant QTH Information</strong></p>
+
+<p>Typing a callsign into the filed and pressing tab, or moving to another field will immediately query QRZ to let you know who you’re contacting. Thanks to KD2E the suggestion!</p>
+
+<p><img src="/uploads/qth-toast.gif" alt="" /></p>
+
+<p><strong>Profile Switching</strong></p>
+
+<p>You can now create multiple station profiles, and switch between them while in a log. Thanks to W8ATM for the suggestion!</p>
+
+<p><img src="/uploads/profile-switching.gif" alt="" /></p>
+
+
+		<div class="author">
+			
+			
+			<div class="square-image"><img src="
+" alt=""/></div>
+			<p class="blurb"></p>
+		</div>
+
+		<div class="blog-navigation">
+			
+				<a class="prev" href="/release%20notes/2021/03/03/0.9.4-release-ios-beta-and-small-bug-fixes/
+">&laquo; 0.9.4 Release - iOS beta and small bug fixes </a>
+			
+			
+				<a class="next" href="/release%20notes/2021/03/25/0.9.6-editing-qsos/
+">0.9.6 Release - Editing QSOs &raquo;</a>
+			
+		</div>
+
+		
+	</div>
+</div>
+
+		</div>
+	</section>
+</div>
+
+		<footer>
+			<div class="container">
+				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
+				<div class="footer-columns">
+					
+				</div>
+				<p class="copyright">&copy; 2021 Lost Cabins, LLC. • <a href="https://cloudcannon.com/">Template by CloudCannon</a></p>
+			</div>
+		</footer>
+		<script>
+			document.getElementById("open-nav").onclick = function () {
+				document.body.classList.toggle("nav-open");
+				return false;
+			};
+		</script>
+	</body>
+</html>

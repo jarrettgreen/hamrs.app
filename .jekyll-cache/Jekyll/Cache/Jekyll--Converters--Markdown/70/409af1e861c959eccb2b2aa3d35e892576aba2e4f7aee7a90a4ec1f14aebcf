@@ -1,0 +1,33 @@
+I"�<p>First, a <strong>HUGE</strong> thank you to Mike, CU3HY in Portugal for providing HAMRS’ first translation, and being an all around amazing beta tester! If you’d like to provide a translation, you can can <a href="https://community.hamrs.app/t/translation-template" title="Translation template instructions">get started here.</a></p>
+
+<p><strong>Quick Changelog</strong></p>
+
+<ul>
+  <li>Added Profiles to support locales and internationalization</li>
+  <li>Added Translations
+    <ul>
+      <li>Portuguese</li>
+      <li>Spanish</li>
+    </ul>
+  </li>
+  <li>Added generic logbook template</li>
+  <li>Fixed bug that resulted in false ‘DUPE’ badges on QSOs when the DUPE was deleted</li>
+  <li>Renamed ‘Winter Field Day’ template to ‘ARRL Winter Field Day’</li>
+</ul>
+
+<p><strong>Profiles &amp; Language Support</strong></p>
+
+<p>After updating HAMRS will ask you to create a default profile and select your language.</p>
+
+<p><img src="/uploads/screen-shot-2021-02-15-at-5-13-45-pm.png" alt="" /></p>
+
+<p><strong>Generic Template</strong></p>
+
+<p>I’ve added a generic template to use if the POTA, or other event specific templates don’t make sense for your use.</p>
+
+<p><img src="/uploads/screen-shot-2021-02-15-at-5-16-19-pm.png" alt="" /></p>
+
+<p><strong>What’s coming next?</strong></p>
+
+<p>Barring any bugs that need to be addressed, or great feature requests you guys come up with, I’ll be working on creating the iOS and Android mobile apps based off of this release, and any necessary features that pop up on <a href="https://community.hamrs.app/c/feature-requests/6" title="Link to HAMRS community site">the community site. </a></p>
+:ET

@@ -1,0 +1,28 @@
+I"<p><strong>Quick Changelog:</strong></p>
+
+<ul>
+  <li>Added a Winter Field Day Template</li>
+  <li>POTA Template changes:
+    <ul>
+      <li>Fixed typos</li>
+      <li>Added ‘Their Park’ to QSO table</li>
+      <li>QSOs prepopulate RST with 59</li>
+    </ul>
+  </li>
+  <li>Removed internally used field from .adi export</li>
+</ul>
+
+<p><strong>Winter Field Day Template</strong></p>
+
+<p><img src="/uploads/screen-shot-2021-02-06-at-12-03-10-pm.png" alt="" title="Winter Field Day Template" /></p>
+
+<p>I know it’s too late for this years WFD, but I spent my time on during WFD getting the template right, and also work on refactoring the code to make adding templates in the future much easier. If there is a template you’d like to see, let me know over on <a href="https://community.hamrs.app/c/feature-requests/6">the community site</a></p>
+
+<p><strong>What’s coming next?</strong></p>
+
+<ul>
+  <li>Translations! This has been requested by a few users and it’s easy to achieve with their help! If you’d like to help let me know over on <a href="https://community.hamrs.app/c/feature-requests/translations/8">the community site</a></li>
+  <li>QSO Table Searching</li>
+  <li>I’m not sure, hit me up with requests! I’d love to start working on a Field Day template in time for June.</li>
+</ul>
+:ET

@@ -1,0 +1,34 @@
+I"<p>Thank you to all of the folks taking a part in the iOS beta test phase.If you’d like to join, <a href="https://www.surveymonkey.com/r/8N3CPPL">please fill out this form</a>.</p>
+
+<p>I’m very happy to be able to implement a couple of your suggestions with this release, as well as do a little housekeeping:</p>
+
+<p><strong>Quick Changelog</strong></p>
+
+<ul>
+  <li><strong>New Features</strong>
+    <ul>
+      <li>Added ability to create multiple station profiles and switch between them while in the Logger</li>
+      <li>After entering a callsign in a form, a toast will appear with Station Information</li>
+      <li>POTA form persists park name, freq, band, and mode between sessions</li>
+    </ul>
+  </li>
+  <li><strong>Bug Fixes</strong>
+    <ul>
+      <li>Duplicate entries are now only marked if the callsign, mode, and date match (Thanks, CU3HY!)</li>
+      <li>POTA form now populates ‘POTA’ in the <code class="highlighter-rouge">my_sig</code> field when exporting ADI file</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Instant QTH Information</strong></p>
+
+<p>Typing a callsign into the filed and pressing tab, or moving to another field will immediately query QRZ to let you know who you’re contacting. Thanks to KD2E the suggestion!</p>
+
+<p><img src="/uploads/qth-toast.gif" alt="" /></p>
+
+<p><strong>Profile Switching</strong></p>
+
+<p>You can now create multiple station profiles, and switch between them while in a log. Thanks to W8ATM for the suggestion!</p>
+
+<p><img src="/uploads/profile-switching.gif" alt="" /></p>
+:ET

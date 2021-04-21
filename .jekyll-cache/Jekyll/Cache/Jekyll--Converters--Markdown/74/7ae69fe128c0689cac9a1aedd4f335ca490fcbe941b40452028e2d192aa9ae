@@ -1,0 +1,14 @@
+I"v<p>I’ve finally been able to add the most asked for feature, the ability to edit QSOs, on-the-fly. Thanks for everyone over at the <a href="community.hamrs.app">community.hamrs.app</a> for their suggestions and helpfulness.</p>
+
+<p><strong>Quick Changelog</strong></p>
+
+<ul>
+  <li><strong>FEATURE</strong> Added ability to edit QSOs!</li>
+  <li><strong>BUGFIX</strong> Cleaned up iPhone layouts</li>
+  <li><strong>BUGFIX</strong> Fix bugged preventing all ‘My Callsign’ inputs from auto-populating with current profile</li>
+</ul>
+
+<p><strong>Editing QSOs</strong></p>
+
+<p><img src="/uploads/editing-a-qso.gif" alt="" /></p>
+:ET

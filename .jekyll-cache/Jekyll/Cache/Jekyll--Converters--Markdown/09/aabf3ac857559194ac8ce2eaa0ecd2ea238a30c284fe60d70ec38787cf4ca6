@@ -1,0 +1,11 @@
+I"L<p>The iOS beta is in full swing, if you’d like early access you’ll need to download Apple’s <a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight application</a> onto you devices and fill out <a href="https://www.surveymonkey.com/r/8N3CPPL">this survey</a>.</p>
+
+<p><strong>Quick Changelog</strong></p>
+
+<ul>
+  <li>Fixed bug that prevented creating consecutive Logbooks</li>
+  <li>Fixed bug that exported ADI files in iOS as TXT files</li>
+  <li>Fixed bug that clears the wrong part of the POTA form</li>
+  <li>Upcase call sign input on Profile form</li>
+</ul>
+:ET

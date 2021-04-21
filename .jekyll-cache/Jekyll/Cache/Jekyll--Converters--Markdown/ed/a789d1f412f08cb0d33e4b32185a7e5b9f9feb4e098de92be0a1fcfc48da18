@@ -1,0 +1,33 @@
+I"�<p>Some releases aren’t sexy. This is one of those. One new feature, some bug fixes, and a few quality of life improvements!</p>
+
+<p><strong>QUICK CHANGELOG</strong></p>
+
+<p><strong>New Feature</strong></p>
+
+<ul>
+  <li>Entering multiple parks in the ‘Their Parks’ field will create a QSO for each park</li>
+</ul>
+
+<p><strong>Enhancements</strong></p>
+
+<ul>
+  <li>Added FT8, SSTV, C4FM, JS8, FT4, DSTAR, and Digital Voice to the Modes dropdown</li>
+  <li>RST, Frequency, and Time fields will present the iOS keyboard with the numbers top bar</li>
+  <li>A couple of more mixes for mobile layouts</li>
+</ul>
+
+<p><strong>Bug Fixes</strong></p>
+
+<ul>
+  <li>Fixed incorrectly marked duplicate QSOs</li>
+  <li>Comments are no longer persisted between QSOs</li>
+  <li>Initial load screen actually loads now.</li>
+  <li>Clicking the HAMRS icon will no longer navigate to a blank white screen</li>
+</ul>
+
+<p><strong>Handling multiple Park to Park</strong></p>
+
+<p>The ‘Their Park’ field on the POTA form will now accept multiple parks, separated by commas, and create a new QSO for each entry.</p>
+
+<p><img src="/uploads/multiple-parks.gif" alt="" /></p>
+:ET
