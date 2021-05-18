@@ -5,7 +5,7 @@ title: Merch
 categories: []
 
 ---
-<<div id='collection-component-1621343851577'></div>
+<div id='collection-component-1621343851577'></div>
 
 <script type="text/javascript">
 
