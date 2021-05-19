@@ -10,6 +10,10 @@
   link: https://www.paypal.com/biz/fund?id=N6WBRJL77UNCU
   new_window: true
   highlight: false
+- name: Patreon
+  link: https://www.patreon.com/hamrs
+  new_window: true
+  highlight: false  
 - name: Blog
   link: /blog/
   new_window: false
